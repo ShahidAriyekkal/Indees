@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\bin\Debug\DemoMenuStrips.exe.config
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\bin\Debug\DemoMenuStrips.exe
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\bin\Debug\DemoMenuStrips.pdb
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.Form1.resources
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.Properties.Resources.resources
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.exe
+C:\Users\user\Desktop\Tasks\DemoMenuStrips\DemoMenuStrips\obj\Debug\DemoMenuStrips.pdb

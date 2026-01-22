@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\bin\Debug\DataBaseIntegration.exe.config
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\bin\Debug\DataBaseIntegration.exe
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\bin\Debug\DataBaseIntegration.pdb
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.Form1.resources
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.Properties.Resources.resources
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.exe
+C:\Users\user\Desktop\Tasks\DataBaseIntegration\DataBaseIntegration\obj\Debug\DataBaseIntegration.pdb
