@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.exe.config
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.exe
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.pdb
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.Form1.resources
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.Properties.Resources.resources
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.exe
+C:\Users\user\source\repos\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.pdb
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.exe.config
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.exe
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\bin\Debug\DemoStudentClass.pdb
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.Form1.resources
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.Properties.Resources.resources
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.exe
+C:\Users\user\Desktop\Tasks\Day 3\DemoStudentClass\DemoStudentClass\obj\Debug\DemoStudentClass.pdb

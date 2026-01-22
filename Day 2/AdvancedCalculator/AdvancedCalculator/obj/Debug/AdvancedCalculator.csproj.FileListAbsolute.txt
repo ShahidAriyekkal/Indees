@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\user\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\user\Desktop\Tasks\Day 2\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
